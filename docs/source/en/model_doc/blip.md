@@ -35,6 +35,8 @@ However, most existing pre-trained models only excel in either understanding-bas
 This model was contributed by [ybelkada](https://huggingface.co/ybelkada).
 The original code can be found [here](https://github.com/salesforce/BLIP).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [blip](https://huggingface.co/models?other=blip)
+
 ## Resources
 
 - [Jupyter notebook](https://github.com/huggingface/notebooks/blob/main/examples/image_captioning_blip.ipynb) on how to fine-tune BLIP for image captioning on a custom dataset

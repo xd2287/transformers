@@ -154,6 +154,8 @@ outputs of the model using one of the postprocessing methods of [`~transformers.
 be be provided to either `CocoEvaluator` or `PanopticEvaluator`, which allow you to calculate metrics like
 mean Average Precision (mAP) and Panoptic Quality (PQ). The latter objects are implemented in the [original repository](https://github.com/facebookresearch/detr). See the [example notebooks](https://github.com/NielsRogge/Transformers-Tutorials/tree/master/DETR) for more info regarding evaluation.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [detr](https://huggingface.co/models?other=detr)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with DETR.

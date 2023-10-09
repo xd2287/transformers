@@ -36,6 +36,8 @@ alt="drawing" width="600"/>
 
 This model was contributed by [adirik](https://huggingface.co/adirik). The original code can be found [here](https://github.com/facebookresearch/ConvNeXt-V2).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [convnextv2](https://huggingface.co/models?other=convnextv2)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with ConvNeXt V2.

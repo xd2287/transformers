@@ -55,6 +55,8 @@ This model was contributed by [ola13](https://huggingface.co/ola13).
 Tips:
 - Retrieval-augmented generation (“RAG”) models combine the powers of pretrained dense retrieval (DPR) and Seq2Seq models. RAG models retrieve docs, pass them to a seq2seq model, then marginalize to generate outputs. The retriever and seq2seq modules are initialized from pretrained models, and fine-tuned jointly, allowing both retrieval and generation to adapt to downstream tasks.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [rag](https://huggingface.co/models?other=rag)
+
 ## RagConfig
 
 [[autodoc]] RagConfig

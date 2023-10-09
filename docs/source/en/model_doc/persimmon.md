@@ -76,6 +76,8 @@ The `LlamaTokenizer` is used as it is a standard wrapper around sentencepiece. T
 - The authors suggest to use the following prompt format for the chat mode: `f"human: {prompt}\n\nadept:"`
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [persimmon](https://huggingface.co/models?other=persimmon)
+
 ## PersimmonConfig
 
 [[autodoc]] PersimmonConfig

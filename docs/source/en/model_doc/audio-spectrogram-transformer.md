@@ -43,6 +43,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/YuanGongND/ast).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [audio-spectrogram-transformer](https://huggingface.co/models?other=audio-spectrogram-transformer)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with the Audio Spectrogram Transformer.

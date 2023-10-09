@@ -36,6 +36,8 @@ Tips:
 
 This model was contributed by [Tianyi Tang](https://huggingface.co/StevenTang). The detailed information and instructions can be found [here](https://github.com/RUCAIBox/MVP).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mvp](https://huggingface.co/models?other=mvp)
+
 ## Examples
 For summarization, it is an example to use MVP and MVP with summarization-specific prompts.
 

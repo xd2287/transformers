@@ -57,6 +57,8 @@ Tips:
 
 The Authors' code can be found [here](https://github.com/microsoft/ProphetNet).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [prophetnet](https://huggingface.co/models?other=prophetnet)
+
 ## Documentation resources
 
 - [Causal language modeling task guide](../tasks/language_modeling)

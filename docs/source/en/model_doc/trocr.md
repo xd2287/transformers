@@ -54,6 +54,8 @@ Tips:
   information, see the [official models](https://huggingface.co/models?other=trocr>).
 - TrOCR is always used within the [VisionEncoderDecoder](vision-encoder-decoder) framework.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [trocr](https://huggingface.co/models?other=trocr)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with TrOCR. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

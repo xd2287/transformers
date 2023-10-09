@@ -65,6 +65,8 @@ Tips:
 
 This model was contributed by [anugunj](https://huggingface.co/anugunj). The original code can be found [here](https://github.com/facebookresearch/LeViT).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [levit](https://huggingface.co/models?other=levit)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with LeViT.

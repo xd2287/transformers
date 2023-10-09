@@ -88,6 +88,8 @@ Tips:
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten). The original code can be
 found [here](https://tfhub.dev/s?module-type=text-generation&subtype=module,placeholder).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [bert-generation](https://huggingface.co/models?other=bert-generation)
+
 ## BertGenerationConfig
 
 [[autodoc]] BertGenerationConfig

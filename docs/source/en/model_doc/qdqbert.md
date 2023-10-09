@@ -48,6 +48,8 @@ Tips:
 This model was contributed by [shangz](https://huggingface.co/shangz).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [qdqbert](https://huggingface.co/models?other=qdqbert)
+
 ### Set default quantizers
 
 QDQBERT model adds fake quantization operations (pair of QuantizeLinear/DequantizeLinear ops) to BERT by

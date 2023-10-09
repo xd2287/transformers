@@ -51,6 +51,8 @@ This model was contributed by [Xrenya](<https://huggingface.co/Xrenya). The orig
 | PVT-Large          |    224  |   81.7  |     61.4     |
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [pvt](https://huggingface.co/models?other=pvt)
+
 ## PvtConfig
 
 [[autodoc]] PvtConfig

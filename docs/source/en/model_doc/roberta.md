@@ -65,6 +65,8 @@ Tips:
 
 This model was contributed by [julien-c](https://huggingface.co/julien-c). The original code can be found [here](https://github.com/pytorch/fairseq/tree/master/examples/roberta).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [roberta](https://huggingface.co/models?other=roberta)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with RoBERTa. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

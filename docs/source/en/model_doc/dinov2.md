@@ -30,6 +30,8 @@ This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/facebookresearch/dinov2).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [dinov2](https://huggingface.co/models?other=dinov2)
+
 ## Dinov2Config
 
 [[autodoc]] Dinov2Config

@@ -44,6 +44,8 @@ Tips:
 This model was contributed by [sshleifer](https://huggingface.co/sshleifer). The authors' code can be found [here](https://github.com/facebookresearch/ParlAI) .
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [blenderbot](https://huggingface.co/models?other=blenderbot)
+
 ## Implementation Notes
 
 - Blenderbot uses a standard [seq2seq model transformer](https://arxiv.org/pdf/1706.03762.pdf) based architecture.

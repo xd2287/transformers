@@ -52,6 +52,8 @@ Tips:
 - Avoid storing the intermediate results of each layer by using reversible transformer layers to obtain them during the backward pass (subtracting the residuals from the input of the next layer gives them back) or recomputing them for results inside a given layer (less efficient than storing them but saves memory).
 - Compute the feedforward operations by chunks and not on the whole batch.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [reformer](https://huggingface.co/models?other=reformer)
+
 ## Axial Positional Encodings
 
 Axial Positional Encodings were first implemented in Google's [trax library](https://github.com/google/trax/blob/4d99ad4965bab1deba227539758d59f0df0fef48/trax/layers/research/position_encodings.py#L29)

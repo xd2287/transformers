@@ -32,6 +32,8 @@ Tips:
 This model was contributed by [Arthur Zucker](https://huggingface.co/ArthurZ), [Younes Belkada](https://huggingface.co/ybelkada), and [Patrick Von Platen](https://huggingface.co/patrickvonplaten).
 The original code can be found [here](https://github.com/facebookresearch/metaseq).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [opt](https://huggingface.co/models?other=opt)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with OPT. If you're

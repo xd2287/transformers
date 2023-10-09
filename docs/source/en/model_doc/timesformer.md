@@ -32,6 +32,8 @@ There are many pretrained variants. Select your pretrained model based on the da
 This model was contributed by [fcakyon](https://huggingface.co/fcakyon).
 The original code can be found [here](https://github.com/facebookresearch/TimeSformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [timesformer](https://huggingface.co/models?other=timesformer)
+
 ## Documentation resources
 
 - [Video classification task guide](../tasks/video_classification)

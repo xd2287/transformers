@@ -42,6 +42,8 @@ pre-trained models will be made publicly available at https://github.com/microso
 This model was contributed by [DeBERTa](https://huggingface.co/DeBERTa). This model TF 2.0 implementation was
 contributed by [kamalkraj](https://huggingface.co/kamalkraj) . The original code can be found [here](https://github.com/microsoft/DeBERTa).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [deberta](https://huggingface.co/models?other=deberta)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with DeBERTa. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

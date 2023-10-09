@@ -31,6 +31,8 @@ alt="drawing" width="600"/>
 
 This model was contributed by [DepuMeng](https://huggingface.co/DepuMeng). The original code can be found [here](https://github.com/Atten4Vis/ConditionalDETR).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [conditional_detr](https://huggingface.co/models?other=conditional_detr)
+
 ## Documentation resources
 
 - [Object detection task guide](../tasks/object_detection)

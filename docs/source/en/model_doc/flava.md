@@ -37,6 +37,8 @@ impressive performance on a wide range of 35 tasks spanning these target modalit
 This model was contributed by [aps](https://huggingface.co/aps). The original code can be found [here](https://github.com/facebookresearch/multimodal/tree/main/examples/flava).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [flava](https://huggingface.co/models?other=flava)
+
 ## FlavaConfig
 
 [[autodoc]] FlavaConfig

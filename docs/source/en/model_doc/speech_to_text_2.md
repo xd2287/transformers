@@ -39,6 +39,8 @@ Tips:
 - Speech2Text2 is always used within the [SpeechEncoderDecoder](speech-encoder-decoder) framework.
 - Speech2Text2's tokenizer is based on [fastBPE](https://github.com/glample/fastBPE).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [speech_to_text_2](https://huggingface.co/models?other=speech_to_text_2)
+
 ## Inference
 
 Speech2Text2's [`SpeechEncoderDecoderModel`] model accepts raw waveform input values from speech and

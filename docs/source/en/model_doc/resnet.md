@@ -37,6 +37,8 @@ The figure below illustrates the architecture of ResNet. Taken from the [origina
 
 This model was contributed by [Francesco](https://huggingface.co/Francesco). The TensorFlow version of this model was added by [amyeroberts](https://huggingface.co/amyeroberts). The original code can be found [here](https://github.com/KaimingHe/deep-residual-networks).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [resnet](https://huggingface.co/models?other=resnet)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with ResNet.

@@ -90,6 +90,8 @@ The complexity of this mechanism is `O(l(r + l/k))`.
 This model was contributed by [stancld](https://huggingface.co/stancld).
 The original code can be found [here](https://github.com/google-research/longt5).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [longt5](https://huggingface.co/models?other=longt5)
+
 ## Documentation resources
 
 - [Translation task guide](../tasks/translation)

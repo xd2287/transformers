@@ -58,6 +58,8 @@ Tips:
 
 This model was contributed by [thomwolf](https://huggingface.co/thomwolf). The original code can be found [here](https://github.com/zihangdai/xlnet/).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [xlnet](https://huggingface.co/models?other=xlnet)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

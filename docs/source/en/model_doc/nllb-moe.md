@@ -46,6 +46,8 @@ Tips:
 This model was contributed by [Arthur Zucker](https://huggingface.co/ArtZucker).
 The original code can be found [here](https://github.com/facebookresearch/fairseq).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [nllb-moe](https://huggingface.co/models?other=nllb-moe)
+
 ## Implementation differences with SwitchTransformers
 The biggest difference is the way the tokens are routed. NLLB-MoE uses a `top-2-gate` which means that for each input, only the top two experts are selected based on the 
 highest predicted probabilities from the gating network, and the remaining experts are ignored. In `SwitchTransformers`, only the top-1 probabilities are computed, 

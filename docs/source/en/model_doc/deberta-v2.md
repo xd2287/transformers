@@ -62,6 +62,8 @@ New in v2:
 This model was contributed by [DeBERTa](https://huggingface.co/DeBERTa). This model TF 2.0 implementation was
 contributed by [kamalkraj](https://huggingface.co/kamalkraj). The original code can be found [here](https://github.com/microsoft/DeBERTa).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [deberta-v2](https://huggingface.co/models?other=deberta-v2)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

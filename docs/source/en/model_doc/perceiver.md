@@ -94,6 +94,8 @@ audio classification, video classification, etc.
 
 - Perceiver does **not** work with `torch.nn.DataParallel` due to a bug in PyTorch, see [issue #36035](https://github.com/pytorch/pytorch/issues/36035)
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [perceiver](https://huggingface.co/models?other=perceiver)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

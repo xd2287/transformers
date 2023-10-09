@@ -50,6 +50,8 @@ This model was contributed by [formiel](https://huggingface.co/formiel). The ori
 Tips:
 - Like RoBERTa, without the sentence ordering prediction (so just trained on the MLM objective).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [flaubert](https://huggingface.co/models?other=flaubert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

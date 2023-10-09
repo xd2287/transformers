@@ -58,6 +58,8 @@ Tips:
 
 - The PyTorch version of this model is only available in torch 1.10 and higher.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vilt](https://huggingface.co/models?other=vilt)
+
 ## ViltConfig
 
 [[autodoc]] ViltConfig

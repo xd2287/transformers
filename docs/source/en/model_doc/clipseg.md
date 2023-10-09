@@ -56,6 +56,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/timojl/clipseg).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [clipseg](https://huggingface.co/models?other=clipseg)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with CLIPSeg. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

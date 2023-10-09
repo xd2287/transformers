@@ -37,6 +37,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/microsoft/VideoX/tree/master/X-CLIP).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [xclip](https://huggingface.co/models?other=xclip)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with X-CLIP.

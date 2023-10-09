@@ -36,6 +36,8 @@ Tips:
 This model was contributed by [Younes Belkada](https://huggingface.co/ybelkada) and [Arthur Zucker](https://huggingface.co/ArtZucker) .
 The original code can be found [here](https://github.com/google/flaxformer/tree/main/flaxformer/architectures/moe).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [switch_transformers](https://huggingface.co/models?other=switch_transformers)
+
 ## Resources
 
 - [Translation task guide](../tasks/translation)

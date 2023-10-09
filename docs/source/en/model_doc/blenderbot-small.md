@@ -48,6 +48,8 @@ Tips:
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten). The authors' code can be
 found [here](https://github.com/facebookresearch/ParlAI).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [blenderbot-small](https://huggingface.co/models?other=blenderbot-small)
+
 ## Documentation resources
 
 - [Causal language modeling task guide](../tasks/language_modeling)

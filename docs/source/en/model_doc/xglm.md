@@ -42,6 +42,8 @@ in social value tasks such as hate speech detection in five languages and find i
 
 This model was contributed by [Suraj](https://huggingface.co/valhalla). The original code can be found [here](https://github.com/pytorch/fairseq/tree/main/examples/xglm).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [xglm](https://huggingface.co/models?other=xglm)
+
 ## Documentation resources
 
 - [Causal language modeling task guide](../tasks/language_modeling)

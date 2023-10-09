@@ -39,6 +39,8 @@ This version of the model is for tasks where the state is a vector, image-based 
 
 This model was contributed by [edbeeching](https://huggingface.co/edbeeching). The original code can be found [here](https://github.com/kzl/decision-transformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [decision_transformer](https://huggingface.co/models?other=decision_transformer)
+
 ## DecisionTransformerConfig
 
 [[autodoc]] DecisionTransformerConfig

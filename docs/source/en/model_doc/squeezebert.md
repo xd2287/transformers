@@ -50,6 +50,8 @@ Tips:
 
 This model was contributed by [forresti](https://huggingface.co/forresti).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [squeezebert](https://huggingface.co/models?other=squeezebert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

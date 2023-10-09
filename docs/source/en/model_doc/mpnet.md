@@ -44,6 +44,8 @@ Tips:
 
 The original code can be found [here](https://github.com/microsoft/MPNet).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mpnet](https://huggingface.co/models?other=mpnet)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

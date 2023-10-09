@@ -66,6 +66,8 @@ Please note that you may need to restart your runtime after installation.
 This model was contributed by [Susnato Dhar](https://huggingface.co/susnato).
 The original code can be found [here](https://github.com/sweetcocoa/pop2piano).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [pop2piano](https://huggingface.co/models?other=pop2piano)
+
 ## Examples
 
 - Example using HuggingFace Dataset:

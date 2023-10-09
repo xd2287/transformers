@@ -28,6 +28,8 @@ This model was contributed by [novice03](https://huggingface.co/novice03).
 The original code can be found [here](https://github.com/mlpen/mra-attention).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mra](https://huggingface.co/models?other=mra)
+
 ## MraConfig
 
 [[autodoc]] MraConfig

@@ -48,6 +48,8 @@ Relevant checkpoints can be found under https://huggingface.co/models?other=wavl
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten). The Authors' code can be
 found [here](https://github.com/microsoft/unilm/tree/master/wavlm).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [wavlm](https://huggingface.co/models?other=wavlm)
+
 ## Documentation resources
 
 - [Audio classification task guide](../tasks/audio_classification)

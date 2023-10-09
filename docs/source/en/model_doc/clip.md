@@ -40,6 +40,8 @@ for any dataset specific training. For instance, we match the accuracy of the or
 without needing to use any of the 1.28 million training examples it was trained on. We release our code and pre-trained
 model weights at this https URL.*
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [clip](https://huggingface.co/models?other=clip)
+
 ## Usage
 
 CLIP is a multi-modal vision and language model. It can be used for image-text similarity and for zero-shot image

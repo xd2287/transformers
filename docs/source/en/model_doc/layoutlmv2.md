@@ -125,6 +125,8 @@ section below.
 In addition, there's LayoutXLM, which is a multilingual version of LayoutLMv2. More information can be found on
 [LayoutXLM's documentation page](layoutxlm).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [layoutlmv2](https://huggingface.co/models?other=layoutlmv2)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with LayoutLMv2. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

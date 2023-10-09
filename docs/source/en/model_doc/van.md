@@ -45,6 +45,8 @@ The figure below illustrates the architecture of a Visual Aattention Layer. Take
 
 This model was contributed by [Francesco](https://huggingface.co/Francesco). The original code can be found [here](https://github.com/Visual-Attention-Network/VAN-Classification).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [van](https://huggingface.co/models?other=van)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with VAN.

@@ -51,6 +51,8 @@ Tips:
 - Code to bulk convert models can be found in `convert_marian_to_pytorch.py`.
 - This model was contributed by [sshleifer](https://huggingface.co/sshleifer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [marian](https://huggingface.co/models?other=marian)
+
 ## Naming
 
 - All model names use the following format: `Helsinki-NLP/opus-mt-{src}-{tgt}`

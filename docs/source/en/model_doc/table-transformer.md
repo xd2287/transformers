@@ -46,6 +46,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr). The original code can be
 found [here](https://github.com/microsoft/table-transformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [table-transformer](https://huggingface.co/models?other=table-transformer)
+
 ## Resources
 
 <PipelineTag pipeline="object-detection"/>

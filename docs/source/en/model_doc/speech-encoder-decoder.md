@@ -41,6 +41,8 @@ and the default [`BertForCausalLM`] configuration for the decoder.
 >>> model = SpeechEncoderDecoderModel(config=config)
 ```
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [speech-encoder-decoder](https://huggingface.co/models?other=speech-encoder-decoder)
+
 ## Initialising `SpeechEncoderDecoderModel` from a pretrained encoder and a pretrained decoder.
 
 [`SpeechEncoderDecoderModel`] can be initialized from a pretrained encoder checkpoint and a pretrained decoder checkpoint. Note that any pretrained Transformer-based speech model, *e.g.* [Wav2Vec2](wav2vec2), [Hubert](hubert) can serve as the encoder and both pretrained auto-encoding models, *e.g.* BERT, pretrained causal language models, *e.g.* GPT2, as well as the pretrained decoder part of sequence-to-sequence models, *e.g.* decoder of BART, can be used as the decoder.

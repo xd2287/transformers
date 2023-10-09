@@ -32,6 +32,8 @@ Tips:
 
 This model was contributed by [zphang](<https://huggingface.co/zphang). The original code can be found [here](https://github.com/google-research/pegasus).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [pegasus_x](https://huggingface.co/models?other=pegasus_x)
+
 ## Documentation resources
 
 - [Translation task guide](../tasks/translation)

@@ -33,6 +33,8 @@ Tips:
 
 This model was contributed by [kamalkraj](https://huggingface.co/kamalkraj). The original code can be found [here](https://github.com/microsoft/BioGPT).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [biogpt](https://huggingface.co/models?other=biogpt)
+
 ## Documentation resources
 
 - [Causal language modeling task guide](../tasks/language_modeling)

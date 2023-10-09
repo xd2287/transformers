@@ -28,6 +28,8 @@ In [LiT: Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs
 leveraging pre-trained (locked/frozen) image and text model for contrastive learning yields significant improvement on
 new zero-shot vision tasks such as image classification or retrieval.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vision-text-dual-encoder](https://huggingface.co/models?other=vision-text-dual-encoder)
+
 ## VisionTextDualEncoderConfig
 
 [[autodoc]] VisionTextDualEncoderConfig

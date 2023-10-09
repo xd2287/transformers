@@ -45,6 +45,8 @@ The figure below illustrates the architecture of MaskFormer. Taken from the [ori
 
 This model was contributed by [francesco](https://huggingface.co/francesco). The original code can be found [here](https://github.com/facebookresearch/MaskFormer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [maskformer](https://huggingface.co/models?other=maskformer)
+
 ## Resources
 
 <PipelineTag pipeline="image-segmentation"/>

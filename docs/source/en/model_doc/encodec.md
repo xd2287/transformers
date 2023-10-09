@@ -46,6 +46,8 @@ Here is a quick example of how to encode and decode an audio using this model:
 ```
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [encodec](https://huggingface.co/models?other=encodec)
+
 ## EncodecConfig
 
 [[autodoc]] EncodecConfig

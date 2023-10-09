@@ -31,6 +31,8 @@ any other models (see the examples for more information).
 An application of this architecture could be to leverage two pretrained [`BertModel`] as the encoder
 and decoder for a summarization model as was shown in: [Text Summarization with Pretrained Encoders](https://arxiv.org/abs/1908.08345) by Yang Liu and Mirella Lapata.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [encoder-decoder](https://huggingface.co/models?other=encoder-decoder)
+
 ## Randomly initializing `EncoderDecoderModel` from model configurations.
 
 [`EncoderDecoderModel`] can be randomly initialized from an encoder and a decoder config. In the following example, we show how to do this using the default [`BertModel`] configuration for the encoder and the default [`BertForCausalLM`] configuration for the decoder.

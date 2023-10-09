@@ -52,6 +52,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr). TensorFlow version of the model was contributed by [sayakpaul](https://github.com/sayakpaul) and 
 [ariG23498](https://github.com/ariG23498) (equal contribution). The original code can be found [here](https://github.com/facebookresearch/mae). 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vit_mae](https://huggingface.co/models?other=vit_mae)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with ViTMAE.

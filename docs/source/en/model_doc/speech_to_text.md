@@ -28,6 +28,8 @@ transcripts/translations autoregressively. Speech2Text has been fine-tuned on se
 This model was contributed by [valhalla](https://huggingface.co/valhalla). The original code can be found [here](https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [speech_to_text](https://huggingface.co/models?other=speech_to_text)
+
 ## Inference
 
 Speech2Text is a speech model that accepts a float tensor of log-mel filter-bank features extracted from the speech

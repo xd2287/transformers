@@ -34,6 +34,8 @@ impact on transfer learning.
 This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/google-research/big_transfer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [bit](https://huggingface.co/models?other=bit)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with BiT.

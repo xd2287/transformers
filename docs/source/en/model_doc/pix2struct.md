@@ -34,6 +34,8 @@ If you want to use the model to perform conditional text captioning, make sure t
 This model was contributed by [ybelkada](https://huggingface.co/ybelkada).
 The original code can be found [here](https://github.com/google-research/pix2struct).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [pix2struct](https://huggingface.co/models?other=pix2struct)
+
 ## Resources
 
 - [Fine-tuning Notebook](https://github.com/huggingface/notebooks/blob/main/examples/image_captioning_pix2struct.ipynb)

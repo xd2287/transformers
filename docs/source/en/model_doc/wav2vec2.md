@@ -39,6 +39,8 @@ Tips:
 
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [wav2vec2](https://huggingface.co/models?other=wav2vec2)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with Wav2Vec2. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

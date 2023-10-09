@@ -35,6 +35,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/mv-lab/swin2sr).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [swin2sr](https://huggingface.co/models?other=swin2sr)
+
 ## Resources
 
 Demo notebooks for Swin2SR can be found [here](https://github.com/NielsRogge/Transformers-Tutorials/tree/master/Swin2SR).

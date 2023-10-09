@@ -35,6 +35,8 @@ in the toxic content detection task under human-made attacks.*
 
 This model was contributed by [weiweishi](https://huggingface.co/weiweishi).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [roc_bert](https://huggingface.co/models?other=roc_bert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

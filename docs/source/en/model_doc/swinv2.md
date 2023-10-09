@@ -30,6 +30,8 @@ Tips:
 This model was contributed by [nandwalritik](https://huggingface.co/nandwalritik).
 The original code can be found [here](https://github.com/microsoft/Swin-Transformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [swinv2](https://huggingface.co/models?other=swinv2)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with Swin Transformer v2.

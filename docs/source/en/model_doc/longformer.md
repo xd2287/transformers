@@ -50,6 +50,8 @@ Tips:
 
 This model was contributed by [beltagy](https://huggingface.co/beltagy). The Authors' code can be found [here](https://github.com/allenai/longformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [longformer](https://huggingface.co/models?other=longformer)
+
 ## Longformer Self Attention
 
 Longformer self attention employs self attention on both a "local" context and a "global" context. Most tokens only

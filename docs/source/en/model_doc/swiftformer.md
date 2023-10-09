@@ -34,6 +34,8 @@ This model was contributed by [shehan97](https://huggingface.co/shehan97).
 The original code can be found [here](https://github.com/Amshaker/SwiftFormer).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [swiftformer](https://huggingface.co/models?other=swiftformer)
+
 ## SwiftFormerConfig
 
 [[autodoc]] SwiftFormerConfig

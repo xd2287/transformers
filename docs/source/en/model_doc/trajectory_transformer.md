@@ -51,6 +51,8 @@ as one big sequence (a trajectory).
 
 This model was contributed by [CarlCochet](https://huggingface.co/CarlCochet). The original code can be found [here](https://github.com/jannerm/trajectory-transformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [trajectory_transformer](https://huggingface.co/models?other=trajectory_transformer)
+
 ## TrajectoryTransformerConfig
 
 [[autodoc]] TrajectoryTransformerConfig

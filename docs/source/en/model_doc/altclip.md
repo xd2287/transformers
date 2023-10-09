@@ -31,6 +31,8 @@ teacher learning and contrastive learning. We validate our method through evalua
 performances on a bunch of tasks including ImageNet-CN, Flicker30k- CN, and COCO-CN. Further, we obtain very close performances with 
 CLIP on almost all tasks, suggesting that one can simply alter the text encoder in CLIP for extended capabilities such as multilingual understanding.*
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [altclip](https://huggingface.co/models?other=altclip)
+
 ## Usage
 
 The usage of AltCLIP is very similar to the CLIP. the difference between CLIP is the text encoder. Note that we use bidirectional attention instead of casual attention

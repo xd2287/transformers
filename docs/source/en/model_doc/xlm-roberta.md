@@ -57,6 +57,8 @@ Tips:
 
 This model was contributed by [stefan-it](https://huggingface.co/stefan-it). The original code can be found [here](https://github.com/pytorch/fairseq/tree/master/examples/xlmr).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [xlm-roberta](https://huggingface.co/models?other=xlm-roberta)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with XLM-RoBERTa. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

@@ -42,6 +42,8 @@ Implementation Notes:
 - The original implementation did not include token type embeddings; this implementation adds support for these, with the option controlled by MegaConfig.add_token_type_embeddings
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mega](https://huggingface.co/models?other=mega)
+
 ## MegaConfig
 
 [[autodoc]] MegaConfig

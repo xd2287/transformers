@@ -24,6 +24,8 @@ The abstract from the paper is the following:
 
 This model was contributed by [jegormeister](https://huggingface.co/jegormeister). The original code (written in JAX) can be found [here](https://github.com/google-research/scenic/tree/main/scenic/projects/vivit).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vivit](https://huggingface.co/models?other=vivit)
+
 ## VivitConfig
 
 [[autodoc]] VivitConfig

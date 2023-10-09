@@ -41,6 +41,8 @@ Tips:
 
 This model was contributed by [camembert](https://huggingface.co/camembert). The original code can be found [here](https://camembert-model.fr/).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [camembert](https://huggingface.co/models?other=camembert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

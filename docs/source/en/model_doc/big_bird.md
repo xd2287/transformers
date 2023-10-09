@@ -56,6 +56,8 @@ Tips:
 This model was contributed by [vasudevgupta](https://huggingface.co/vasudevgupta). The original code can be found
 [here](https://github.com/google-research/bigbird).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [big_bird](https://huggingface.co/models?other=big_bird)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

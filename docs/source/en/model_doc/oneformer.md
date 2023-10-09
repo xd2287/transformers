@@ -41,6 +41,8 @@ The figure below illustrates the architecture of OneFormer. Taken from the [orig
 
 This model was contributed by [Jitesh Jain](https://huggingface.co/praeclarumjj3). The original code can be found [here](https://github.com/SHI-Labs/OneFormer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [oneformer](https://huggingface.co/models?other=oneformer)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with OneFormer.

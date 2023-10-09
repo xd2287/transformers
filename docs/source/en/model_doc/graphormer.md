@@ -32,6 +32,8 @@ This model does not use a tokenizer, but instead a special collator during train
 
 This model was contributed by [clefourrier](https://huggingface.co/clefourrier). The original code can be found [here](https://github.com/microsoft/Graphormer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [graphormer](https://huggingface.co/models?other=graphormer)
+
 ## GraphormerConfig
 
 [[autodoc]] GraphormerConfig

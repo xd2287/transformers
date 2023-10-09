@@ -27,6 +27,8 @@ The architecture is similar to GPT2 except that GPT Neo uses local attention in 
 
 This model was contributed by [valhalla](https://huggingface.co/valhalla).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [gpt_neo](https://huggingface.co/models?other=gpt_neo)
+
 ### Generation
 
 The `generate()` method can be used to generate text using GPT Neo model.

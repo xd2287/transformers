@@ -45,6 +45,8 @@ Tips on usage:
 
 This model was contributed by [gchhablani](https://huggingface.co/gchhablani). The original code can be found [here](https://github.com/google-research/google-research/tree/master/f_net).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [fnet](https://huggingface.co/models?other=fnet)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

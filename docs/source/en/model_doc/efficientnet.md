@@ -30,6 +30,8 @@ This model was contributed by [adirik](https://huggingface.co/adirik).
 The original code can be found [here](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [efficientnet](https://huggingface.co/models?other=efficientnet)
+
 ## EfficientNetConfig
 
 [[autodoc]] EfficientNetConfig

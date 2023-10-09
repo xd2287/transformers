@@ -40,6 +40,8 @@ on the encoder, decoder, or reconstructing parts of the text.
 
 This model was contributed by [valhalla](https://huggingface.co/valhalla). The Authors' code can be found [here](https://github.com/pytorch/fairseq/tree/master/examples/mbart)
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mbart](https://huggingface.co/models?other=mbart)
+
 ### Training of MBart
 
 MBart is a multilingual encoder-decoder (sequence-to-sequence) model primarily intended for translation task. As the

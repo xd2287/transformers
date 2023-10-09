@@ -52,6 +52,8 @@ found [here](https://github.com/google-research/t5x).
 
 One can refer to [T5's documentation page](t5) for more tips, code examples and notebooks.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [umt5](https://huggingface.co/models?other=umt5)
+
 ## Differences with mT5?
 `UmT5` is based on mT5, with a non-shared relative positional bias that is computed for each layer. This means that the model set `has_relative_bias` for each layer.
 The conversion script is also different because the model was saved in t5x's latest checkpointing format.

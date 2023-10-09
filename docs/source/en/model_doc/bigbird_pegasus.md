@@ -56,6 +56,8 @@ Tips:
 
 The original code can be found [here](https://github.com/google-research/bigbird).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [bigbird_pegasus](https://huggingface.co/models?other=bigbird_pegasus)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

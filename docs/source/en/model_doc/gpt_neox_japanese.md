@@ -25,6 +25,8 @@ Following the recommendations from Google's research on [PaLM](https://ai.google
 
 Development of the model was led by [Shinya Otani](https://github.com/SO0529), [Takayoshi Makabe](https://github.com/spider-man-tm), [Anuj Arora](https://github.com/Anuj040), and [Kyo Hattori](https://github.com/go5paopao) from [ABEJA, Inc.](https://www.abejainc.com/). For more information on this model-building activity, please refer [here (ja)](https://tech-blog.abeja.asia/entry/abeja-gpt-project-202207).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [gpt_neox_japanese](https://huggingface.co/models?other=gpt_neox_japanese)
+
 ### Generation
 
 The `generate()` method can be used to generate text using GPT NeoX Japanese model.

@@ -88,6 +88,8 @@ Tips:
 Note that MiT in the above table refers to the Mix Transformer encoder backbone introduced in SegFormer. For
 SegFormer's results on the segmentation datasets like ADE20k, refer to the [paper](https://arxiv.org/abs/2105.15203).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [segformer](https://huggingface.co/models?other=segformer)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with SegFormer.

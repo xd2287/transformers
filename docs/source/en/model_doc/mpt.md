@@ -38,6 +38,8 @@ Tips:
 - [Fine-tuning Notebook](https://colab.research.google.com/drive/1HCpQkLL7UXW8xJUJJ29X7QAeNJKO0frZ?usp=sharing) on how to fine-tune MPT-7B on a free Google Colab instance to turn the model into a Chatbot.
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mpt](https://huggingface.co/models?other=mpt)
+
 ## MptConfig
 
 [[autodoc]] MptConfig

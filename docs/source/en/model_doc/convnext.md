@@ -44,6 +44,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr). TensorFlow version of the model was contributed by [ariG23498](https://github.com/ariG23498),
 [gante](https://github.com/gante), and [sayakpaul](https://github.com/sayakpaul) (equal contribution). The original code can be found [here](https://github.com/facebookresearch/ConvNeXt).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [convnext](https://huggingface.co/models?other=convnext)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with ConvNeXT.

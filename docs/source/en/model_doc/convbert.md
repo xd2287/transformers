@@ -49,6 +49,8 @@ ConvBERT training tips are similar to those of BERT.
 This model was contributed by [abhishek](https://huggingface.co/abhishek). The original implementation can be found
 here: https://github.com/yitu-opensource/ConvBert
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [convbert](https://huggingface.co/models?other=convbert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

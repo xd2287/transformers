@@ -56,6 +56,8 @@ Tips:
   size, the tokenizer for [GPT-J](https://huggingface.co/EleutherAI/gpt-j-6B) contains 143 extra tokens
   `<|extratoken_1|>... <|extratoken_143|>`, so the `vocab_size` of tokenizer also becomes 50400.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [gptj](https://huggingface.co/models?other=gptj)
+
 ### Generation
 
 The [`~generation.GenerationMixin.generate`] method can be used to generate text using GPT-J

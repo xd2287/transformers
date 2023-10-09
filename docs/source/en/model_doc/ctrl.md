@@ -59,6 +59,8 @@ Tips:
 This model was contributed by [keskarnitishr](https://huggingface.co/keskarnitishr). The original code can be found
 [here](https://github.com/salesforce/ctrl).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [ctrl](https://huggingface.co/models?other=ctrl)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

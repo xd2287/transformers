@@ -53,6 +53,8 @@ alt="drawing" width="600"/>
 
 This model was contributed by [nielsr](https://huggingface.co/nielsr). The original code can be found [here](https://github.com/microsoft/unilm/tree/master/markuplm).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [markuplm](https://huggingface.co/models?other=markuplm)
+
 ## Usage: MarkupLMProcessor
 
 The easiest way to prepare data for the model is to use [`MarkupLMProcessor`], which internally combines a feature extractor

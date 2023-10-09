@@ -23,6 +23,8 @@ including [ERNIE1.0](https://arxiv.org/abs/1904.09223), [ERNIE2.0](https://ojs.a
 
 These models are contributed by [nghuyong](https://huggingface.co/nghuyong) and the official code can be found in [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) (in PaddlePaddle).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [ernie](https://huggingface.co/models?other=ernie)
+
 ### How to use
 Take `ernie-1.0-base-zh` as an example:
 

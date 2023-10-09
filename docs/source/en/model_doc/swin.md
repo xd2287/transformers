@@ -49,6 +49,8 @@ alt="drawing" width="600"/>
 This model was contributed by [novice03](https://huggingface.co/novice03). The Tensorflow version of this model was contributed by [amyeroberts](https://huggingface.co/amyeroberts). The original code can be found [here](https://github.com/microsoft/Swin-Transformer).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [swin](https://huggingface.co/models?other=swin)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with Swin Transformer.

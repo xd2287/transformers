@@ -60,6 +60,8 @@ Tips:
 This model was contributed by [sshleifer](https://huggingface.co/sshleifer). The Authors' code can be found [here](https://github.com/pytorch/fairseq/tree/master/examples/bart).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [bart](https://huggingface.co/models?other=bart)
+
 ### Examples
 
 - Examples and scripts for fine-tuning BART and other models for sequence to sequence tasks can be found in

@@ -40,6 +40,8 @@ Tips:
   at inference time as well as fine-tuning on custom data.
 - Nougat is always used within the [VisionEncoderDecoder](vision-encoder-decoder) framework. The model is identical to [Donut](donut) in terms of architecture.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [nougat](https://huggingface.co/models?other=nougat)
+
 ## Inference
 
 Nougat's [`VisionEncoderDecoder`] model accepts images as input and makes use of

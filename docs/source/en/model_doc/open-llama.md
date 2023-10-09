@@ -43,6 +43,8 @@ The original code can be found [Open-Llama](https://github.com/s-JoL/Open-Llama)
 Checkpoint and usage can be found at [s-JoL/Open-Llama-V1](https://huggingface.co/s-JoL/Open-Llama-V1).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [open-llama](https://huggingface.co/models?other=open-llama)
+
 ## OpenLlamaConfig
 
 [[autodoc]] OpenLlamaConfig

@@ -34,6 +34,8 @@ Tips:
 - MGP-STR is trained on two synthetic datasets [MJSynth]((http://www.robots.ox.ac.uk/~vgg/data/text/)) (MJ) and SynthText(http://www.robots.ox.ac.uk/~vgg/data/scenetext/) (ST) without fine-tuning on other datasets. It achieves state-of-the-art results on six standard Latin scene text benchmarks, including 3 regular text datasets (IC13, SVT, IIIT) and 3 irregular ones (IC15, SVTP, CUTE).
 - This model was contributed by [yuekun](https://huggingface.co/yuekun). The original code can be found [here](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/OCR/MGP-STR).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mgp-str](https://huggingface.co/models?other=mgp-str)
+
 ## Inference
 
 [`MgpstrModel`] accepts images as input and generates three types of predictions, which represent textual information at different granularities.

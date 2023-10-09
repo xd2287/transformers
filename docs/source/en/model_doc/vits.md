@@ -42,6 +42,8 @@ as these checkpoints use the same architecture and a slightly modified tokenizer
 
 This model was contributed by [Matthijs](https://huggingface.co/Matthijs) and [sanchit-gandhi](https://huggingface.co/sanchit-gandhi). The original code can be found [here](https://github.com/jaywalnut310/vits).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vits](https://huggingface.co/models?other=vits)
+
 ## Model Usage
 
 Both the VITS and MMS-TTS checkpoints can be used with the same API. Since the flow-based model is non-deterministic, it 

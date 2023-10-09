@@ -40,6 +40,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/salesforce/LAVIS/tree/5ee63d688ba4cebff63acee04adaef2dee9af207).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [blip-2](https://huggingface.co/models?other=blip-2)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with BLIP-2.

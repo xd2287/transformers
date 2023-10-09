@@ -32,6 +32,8 @@ for more information).
 An example application is image captioning, in which the encoder is used to encode the image, after which an autoregressive language model generates
 the caption. Another example is optical character recognition. Refer to [TrOCR](trocr), which is an instance of [`VisionEncoderDecoderModel`].
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vision-encoder-decoder](https://huggingface.co/models?other=vision-encoder-decoder)
+
 ## Randomly initializing `VisionEncoderDecoderModel` from model configurations.
 
 [`VisionEncoderDecoderModel`] can be randomly initialized from an encoder and a decoder config. In the following example, we show how to do this using the default [`ViTModel`] configuration for the encoder

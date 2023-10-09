@@ -38,6 +38,8 @@ model = GPTNeoXForCausalLM.from_pretrained("EleutherAI/gpt-neox-20b").half().cud
 GPT-NeoX-20B also has a different tokenizer from the one used in GPT-J-6B and GPT-Neo. The new tokenizer allocates
 additional tokens to whitespace characters, making the model more suitable for certain tasks like code generation.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [gpt_neox](https://huggingface.co/models?other=gpt_neox)
+
 ### Generation
 
 The `generate()` method can be used to generate text using GPT Neo model.

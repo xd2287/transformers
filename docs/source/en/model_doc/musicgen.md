@@ -46,6 +46,8 @@ This model was contributed by [sanchit-gandhi](https://huggingface.co/sanchit-ga
 [here](https://github.com/facebookresearch/audiocraft). The pre-trained checkpoints can be found on the
 [Hugging Face Hub](https://huggingface.co/models?sort=downloads&search=facebook%2Fmusicgen-).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [musicgen](https://huggingface.co/models?other=musicgen)
+
 ## Generation
 
 MusicGen is compatible with two generation modes: greedy and sampling. In practice, sampling leads to significantly

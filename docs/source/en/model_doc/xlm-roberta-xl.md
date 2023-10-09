@@ -32,6 +32,8 @@ Tips:
 
 This model was contributed by [Soonhwan-Kwon](https://github.com/Soonhwan-Kwon) and [stefan-it](https://huggingface.co/stefan-it). The original code can be found [here](https://github.com/pytorch/fairseq/tree/master/examples/xlmr).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [xlm-roberta-xl](https://huggingface.co/models?other=xlm-roberta-xl)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

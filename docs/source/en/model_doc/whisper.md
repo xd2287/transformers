@@ -36,6 +36,8 @@ This model was contributed by [Arthur Zucker](https://huggingface.co/ArthurZ). T
 The original code can be found [here](https://github.com/openai/whisper).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [whisper](https://huggingface.co/models?other=whisper)
+
 ## WhisperConfig
 
 [[autodoc]] WhisperConfig

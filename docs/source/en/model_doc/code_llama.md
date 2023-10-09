@@ -100,6 +100,8 @@ Under the hood, the tokenizer [automatically splits by `<FILL_ME>`](https://hugg
 This model was contributed by [ArthurZucker](https://huggingface.co/ArthurZ). The original code of the authors can be found [here](https://github.com/facebookresearch/llama).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [code_llama](https://huggingface.co/models?other=code_llama)
+
 ## CodeLlamaTokenizer
 
 [[autodoc]] CodeLlamaTokenizer

@@ -41,6 +41,8 @@ embedding layer. The embeddings are not tied in pre-training, in contrast with B
 embeddings (preserved during fine-tuning) and bigger output embeddings (discarded at fine-tuning). The tokenizer is
 also similar to the Albert one rather than the BERT one.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [rembert](https://huggingface.co/models?other=rembert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

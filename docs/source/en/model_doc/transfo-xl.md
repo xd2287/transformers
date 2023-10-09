@@ -62,6 +62,8 @@ TransformerXL does **not** work with *torch.nn.DataParallel* due to a bug in PyT
 
 </Tip>
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [transfo-xl](https://huggingface.co/models?other=transfo-xl)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

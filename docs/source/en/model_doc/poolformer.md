@@ -45,6 +45,8 @@ Tips:
 
 This model was contributed by [heytanay](https://huggingface.co/heytanay). The original code can be found [here](https://github.com/sail-sg/poolformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [poolformer](https://huggingface.co/models?other=poolformer)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with PoolFormer.

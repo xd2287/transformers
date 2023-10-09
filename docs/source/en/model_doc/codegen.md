@@ -29,6 +29,8 @@ The abstract from the paper is the following:
 This model was contributed by [Hiroaki Hayashi](https://huggingface.co/rooa).
 The original code can be found [here](https://github.com/salesforce/codegen).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [codegen](https://huggingface.co/models?other=codegen)
+
 ## Checkpoint Naming
 
 * CodeGen model [checkpoints](https://huggingface.co/models?other=codegen) are available on different pre-training data with variable sizes.

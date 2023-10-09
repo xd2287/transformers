@@ -35,6 +35,8 @@ This model was contributed by [yjernite](https://huggingface.co/yjernite). Code 
 found [here](https://github.com/huggingface/transformers/tree/main/examples/research-projects/distillation).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [retribert](https://huggingface.co/models?other=retribert)
+
 ## RetriBertConfig
 
 [[autodoc]] RetriBertConfig

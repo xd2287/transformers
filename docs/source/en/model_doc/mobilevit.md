@@ -61,6 +61,8 @@ with open(tflite_filename, "wb") as f:
 
 This model was contributed by [matthijs](https://huggingface.co/Matthijs). The TensorFlow version of the model was contributed by [sayakpaul](https://huggingface.co/sayakpaul). The original code and weights can be found [here](https://github.com/apple/ml-cvnets).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mobilevit](https://huggingface.co/models?other=mobilevit)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with MobileViT.

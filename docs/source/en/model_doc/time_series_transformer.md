@@ -59,6 +59,8 @@ which is then fed to the decoder in order to make the next prediction (also call
 
 This model was contributed by [kashif](https://huggingface.co/kashif).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [time_series_transformer](https://huggingface.co/models?other=time_series_transformer)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

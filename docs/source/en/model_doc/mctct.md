@@ -44,6 +44,8 @@ performance for many languages that also transfers well to LibriSpeech.*
 
 This model was contributed by [cwkeam](https://huggingface.co/cwkeam). The original code can be found [here](https://github.com/flashlight/wav2letter/tree/main/recipes/mling_pl).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mctct](https://huggingface.co/models?other=mctct)
+
 ## Documentation resources
 
 - [Automatic speech recognition task guide](../tasks/asr)

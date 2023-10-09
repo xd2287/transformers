@@ -43,6 +43,8 @@ Tips:
    We do not provide the detector and its weights as a part of the package, but it will be available in the research
    projects, and the states can be loaded directly into the detector provided.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [visual_bert](https://huggingface.co/models?other=visual_bert)
+
 ## Usage
 
 VisualBERT is a multi-modal vision and language model. It can be used for visual question answering, multiple choice,

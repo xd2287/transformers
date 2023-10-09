@@ -51,6 +51,8 @@ Tips:
 
 This model was contributed by [yuvalkirstain](https://huggingface.co/yuvalkirstain) and [oriram](https://huggingface.co/oriram). The original code can be found [here](https://github.com/oriram/splinter).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [splinter](https://huggingface.co/models?other=splinter)
+
 ## Documentation resources
 
 - [Question answering task guide](../tasks/question-answering)

@@ -60,6 +60,8 @@ different sizes: small, medium, large, xl and a distilled version of the small c
 
 This model was contributed by [thomwolf](https://huggingface.co/thomwolf). The original code can be found [here](https://openai.com/blog/better-language-models/).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [gpt2](https://huggingface.co/models?other=gpt2)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with GPT2. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

@@ -44,6 +44,8 @@ Tips:
 
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [hubert](https://huggingface.co/models?other=hubert)
+
 ## Documentation resources
 
 - [Audio classification task guide](../tasks/audio_classification)

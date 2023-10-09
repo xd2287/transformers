@@ -49,6 +49,8 @@ Tips:
   * MLM: encoder input tokens are randomly replaced by a mask tokens and have to be predicted by the encoder (like in BERT)
   * GSG: whole encoder input sentences are replaced by a second mask token and fed to the decoder, but which has a causal mask to hide the future words like a regular auto-regressive transformer decoder.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [pegasus](https://huggingface.co/models?other=pegasus)
+
 ## Checkpoints
 
 All the [checkpoints](https://huggingface.co/models?search=pegasus) are fine-tuned for summarization, besides

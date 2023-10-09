@@ -37,6 +37,8 @@ favorably relative to other efficient self-attention methods. Our code is availa
 
 This model was contributed by [novice03](https://huggingface.co/novice03). The original code can be found [here](https://github.com/mlpen/Nystromformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [nystromformer](https://huggingface.co/models?other=nystromformer)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

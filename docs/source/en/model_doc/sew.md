@@ -40,6 +40,8 @@ Tips:
 
 This model was contributed by [anton-l](https://huggingface.co/anton-l).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [sew](https://huggingface.co/models?other=sew)
+
 ## Documentation resources
 
 - [Audio classification task guide](../tasks/audio_classification)

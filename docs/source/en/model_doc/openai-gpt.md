@@ -70,6 +70,8 @@ python -m spacy download en
 If you don't install `ftfy` and `SpaCy`, the [`OpenAIGPTTokenizer`] will default to tokenize
 using BERT's `BasicTokenizer` followed by Byte-Pair Encoding (which should be fine for most usage, don't worry).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [openai-gpt](https://huggingface.co/models?other=openai-gpt)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with OpenAI GPT. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

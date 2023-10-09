@@ -42,6 +42,8 @@ alt="drawing" width="600"/>
 
 The original code can be found [here](https://github.com/zinengtang/TVLT). This model was contributed by [Zineng Tang](https://huggingface.co/ZinengTang).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [tvlt](https://huggingface.co/models?other=tvlt)
+
 ## TvltConfig
 
 [[autodoc]] TvltConfig

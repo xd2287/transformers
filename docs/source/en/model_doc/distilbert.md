@@ -66,6 +66,8 @@ Tips:
 This model was contributed by [victorsanh](https://huggingface.co/victorsanh). This model jax version was
 contributed by [kamalkraj](https://huggingface.co/kamalkraj). The original code can be found [here](https://github.com/huggingface/transformers/tree/main/examples/research_projects/distillation).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [distilbert](https://huggingface.co/models?other=distilbert)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with DistilBERT. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

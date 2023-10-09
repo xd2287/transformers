@@ -20,6 +20,8 @@ rendered properly in your Markdown viewer.
 
 Mistral-7B-v0.1 is Mistral AI’s first Large Language Model (LLM). 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mistral](https://huggingface.co/models?other=mistral)
+
 ## Model Details
 
 Mistral-7B-v0.1 is a decoder-based LM with the following architectural choices:

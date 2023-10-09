@@ -60,6 +60,8 @@ Tips:
 This model was contributed by [nielsr](https://huggingface.co/nielsr). The original code can be found [here](https://github.com/google-research/language/tree/master/language/canine).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [canine](https://huggingface.co/models?other=canine)
+
 ### Example
 
 CANINE works on raw characters, so it can be used without a tokenizer:

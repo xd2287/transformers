@@ -43,6 +43,8 @@ reach extremely low latency on mobile devices while maintaining high performance
 This model was contributed by [novice03](https://huggingface.co/novice03) and [Bearnardd](https://huggingface.co/Bearnardd).
 The original code can be found [here](https://github.com/snap-research/EfficientFormer). The TensorFlow version of this model was added by [D-Roberts](https://huggingface.co/D-Roberts).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [efficientformer](https://huggingface.co/models?other=efficientformer)
+
 ## Documentation resources
 
 - [Image classification task guide](../tasks/image_classification)

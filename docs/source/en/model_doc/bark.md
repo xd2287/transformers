@@ -26,6 +26,8 @@ Bark is made of 4 main models:
 
 It should be noted that each of the first three modules can support conditional speaker embeddings to condition the output sound according to specific predefined voice.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [bark](https://huggingface.co/models?other=bark)
+
 ### Optimizing Bark
 
 Bark can be optimized with just a few extra lines of code, which **significantly reduces its memory footprint** and **accelerates inference**.

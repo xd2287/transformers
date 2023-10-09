@@ -37,6 +37,8 @@ an improved word error rate.
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten).
 The original code can be found [here](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [wav2vec2-conformer](https://huggingface.co/models?other=wav2vec2-conformer)
+
 ## Documentation resources
 
 - [Audio classification task guide](../tasks/audio_classification)

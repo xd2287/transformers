@@ -54,6 +54,8 @@ alt="drawing" width="600"/>
 
 This model was contributed by [novice03](https://huggingface.co/novice03). The original code can be found [here](https://github.com/mlpen/YOSO).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [yoso](https://huggingface.co/models?other=yoso)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

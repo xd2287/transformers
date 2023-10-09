@@ -59,6 +59,8 @@ Tips:
 
 This model was contributed by [thomwolf](https://huggingface.co/thomwolf). The original code can be found [here](https://github.com/facebookresearch/XLM/).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [xlm](https://huggingface.co/models?other=xlm)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

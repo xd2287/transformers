@@ -90,6 +90,8 @@ help throughout the process!
 The HuggingFace port of ESMFold uses portions of the [openfold](https://github.com/aqlaboratory/openfold) library.
 The `openfold` library is licensed under the Apache License 2.0.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [esm](https://huggingface.co/models?other=esm)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

@@ -35,6 +35,8 @@ This model was contributed by [Francesco](https://huggingface.co/Francesco). The
 was contributed by [sayakpaul](https://huggingface.com/sayakpaul) and [ariG23498](https://huggingface.com/ariG23498).
 The original code can be found [here](https://github.com/facebookresearch/pycls).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [regnet](https://huggingface.co/models?other=regnet)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with RegNet.

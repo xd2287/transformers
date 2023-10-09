@@ -38,6 +38,8 @@ To train a new Idefics model from scratch use the m4 codebase (a link will be pr
 </Tip>
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [idefics](https://huggingface.co/models?other=idefics)
+
 ## IdeficsConfig
 
 [[autodoc]] IdeficsConfig

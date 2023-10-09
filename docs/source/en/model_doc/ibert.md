@@ -40,6 +40,8 @@ been open-sourced.*
 
 This model was contributed by [kssteven](https://huggingface.co/kssteven). The original code can be found [here](https://github.com/kssteven418/I-BERT).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [ibert](https://huggingface.co/models?other=ibert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

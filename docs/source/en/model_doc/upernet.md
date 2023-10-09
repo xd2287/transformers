@@ -33,6 +33,8 @@ alt="drawing" width="600"/>
 
 This model was contributed by [nielsr](https://huggingface.co/nielsr). The original code is based on OpenMMLab's mmsegmentation [here](https://github.com/open-mmlab/mmsegmentation/blob/master/mmseg/models/decode_heads/uper_head.py).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [upernet](https://huggingface.co/models?other=upernet)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with UPerNet.

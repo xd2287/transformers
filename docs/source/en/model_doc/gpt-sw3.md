@@ -52,6 +52,8 @@ Example usage:
 Träd är fina för att de är färgstarka. Men ibland är det fint
 ```
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [gpt-sw3](https://huggingface.co/models?other=gpt-sw3)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

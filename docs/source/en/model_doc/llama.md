@@ -55,6 +55,8 @@ Based on the original LLaMA model, Meta AI has released some follow-up works:
 
 - **Llama2**: Llama2 is an improved version of Llama with some architectural tweaks (Grouped Query Attention), and is pre-trained on 2Trillion tokens. Refer to the documentation of Llama2 which can be found [here](llama2).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [llama](https://huggingface.co/models?other=llama)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with LLaMA. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

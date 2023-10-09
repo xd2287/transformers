@@ -75,6 +75,8 @@ Tips:
 
 This model was contributed by [nielsr](https://huggingface.co/nielsr). The TensorFlow version of this model was added by [amyeroberts](https://huggingface.co/amyeroberts).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [deit](https://huggingface.co/models?other=deit)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with DeiT.

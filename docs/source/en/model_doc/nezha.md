@@ -35,6 +35,8 @@ and natural language inference (XNLI).*
 
 This model was contributed by [sijunhe](https://huggingface.co/sijunhe). The original code can be found [here](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-PyTorch).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [nezha](https://huggingface.co/models?other=nezha)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

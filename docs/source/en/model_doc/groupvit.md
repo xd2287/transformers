@@ -32,6 +32,8 @@ Tips:
 This model was contributed by [xvjiarui](https://huggingface.co/xvjiarui). The TensorFlow version was contributed by [ariG23498](https://huggingface.co/ariG23498) with the help of [Yih-Dar SHIEH](https://huggingface.co/ydshieh), [Amy Roberts](https://huggingface.co/amyeroberts), and [Joao Gante](https://huggingface.co/joaogante).
 The original code can be found [here](https://github.com/NVlabs/GroupViT).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [groupvit](https://huggingface.co/models?other=groupvit)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with GroupViT.

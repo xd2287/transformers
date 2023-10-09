@@ -37,6 +37,8 @@ This system improves upon our WMT'18 submission by 4.5 BLEU points.*
 This model was contributed by [stas](https://huggingface.co/stas). The original code can be found
 [here](https://github.com/pytorch/fairseq/tree/master/examples/wmt19).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [fsmt](https://huggingface.co/models?other=fsmt)
+
 ## Implementation Notes
 
 - FSMT uses source and target vocabulary pairs that aren't combined into one. It doesn't share embeddings tokens

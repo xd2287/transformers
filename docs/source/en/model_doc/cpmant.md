@@ -27,6 +27,8 @@ This model was contributed by [OpenBMB](https://huggingface.co/openbmb). The ori
 ⚙️ Training & Inference
 - A tutorial on [CPM-Live](https://github.com/OpenBMB/CPM-Live/tree/cpm-ant/cpm-live).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [cpmant](https://huggingface.co/models?other=cpmant)
+
 ## CpmAntConfig
 
 [[autodoc]] CpmAntConfig

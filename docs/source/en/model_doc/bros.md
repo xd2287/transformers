@@ -82,6 +82,8 @@ def make_box_first_token_mask(bboxes, words, tokenizer, max_seq_length=512):
 
 This model was contributed by [jinho8345](https://huggingface.co/jinho8345). The original code can be found [here](https://github.com/clovaai/bros).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [bros](https://huggingface.co/models?other=bros)
+
 ## BrosConfig
 
 [[autodoc]] BrosConfig

@@ -60,6 +60,8 @@ Taken from the <a href="https://arxiv.org/abs/2204.07143">original paper</a>.</s
 This model was contributed by [Ali Hassani](https://huggingface.co/alihassanijr).
 The original code can be found [here](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [nat](https://huggingface.co/models?other=nat)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with NAT.

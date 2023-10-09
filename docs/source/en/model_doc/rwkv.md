@@ -69,6 +69,8 @@ class RwkvStoppingCriteria(StoppingCriteria):
 output = model.generate(inputs["input_ids"], max_new_tokens=64, stopping_criteria = [RwkvStoppingCriteria()])
 ```
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [rwkv](https://huggingface.co/models?other=rwkv)
+
 ## RwkvConfig
 
 [[autodoc]] RwkvConfig

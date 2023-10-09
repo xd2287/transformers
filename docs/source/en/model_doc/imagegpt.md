@@ -73,6 +73,8 @@ Tips:
 | MiT-b4 | [3, 8, 27, 3] | [64, 128, 320, 512] | 768 | 62.6 | 83.6 |
 | MiT-b5 | [3, 6, 40, 3] | [64, 128, 320, 512] | 768 | 82.0 | 83.8 |
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [imagegpt](https://huggingface.co/models?other=imagegpt)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with ImageGPT.

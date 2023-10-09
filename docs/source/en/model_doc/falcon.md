@@ -31,6 +31,8 @@ attention variants like `FlashAttention`. Both 'base' models trained only as cau
 Falcon models are (as of 2023) some of the largest and most powerful open-source language models,
 and consistently rank highly in the [OpenLLM leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [falcon](https://huggingface.co/models?other=falcon)
+
 ## Converting custom checkpoints 
 
 <Tip>

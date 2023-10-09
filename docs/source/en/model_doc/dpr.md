@@ -50,6 +50,8 @@ Tips:
     * Context encoder: encode contexts as vectors
     * Reader: extract the answer of the questions inside retrieved contexts, along with a relevance score (high if the inferred span actually answers the question).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [dpr](https://huggingface.co/models?other=dpr)
+
 ## DPRConfig
 
 [[autodoc]] DPRConfig

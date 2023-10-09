@@ -35,6 +35,8 @@ This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/microsoft/FocalNet).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [focalnet](https://huggingface.co/models?other=focalnet)
+
 ## FocalNetConfig
 
 [[autodoc]] FocalNetConfig

@@ -35,6 +35,8 @@ Tips:
 
 This model was contributed by [Shivalika Singh](https://huggingface.co/shivi) and [Alara Dirik](https://huggingface.co/adirik). The original code can be found [here](https://github.com/facebookresearch/Mask2Former).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mask2former](https://huggingface.co/models?other=mask2former)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with Mask2Former.

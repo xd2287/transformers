@@ -26,6 +26,8 @@ The abstract from the paper is the following:
 
 This model was contributed by [Matthijs](https://huggingface.co/Matthijs). The original code can be found [here](https://github.com/microsoft/SpeechT5).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [speecht5](https://huggingface.co/models?other=speecht5)
+
 ## SpeechT5Config
 
 [[autodoc]] SpeechT5Config

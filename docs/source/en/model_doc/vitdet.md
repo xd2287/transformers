@@ -29,6 +29,8 @@ This model was contributed by [nielsr](https://huggingface.co/nielsr).
 The original code can be found [here](https://github.com/facebookresearch/detectron2/tree/main/projects/ViTDet).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vitdet](https://huggingface.co/models?other=vitdet)
+
 ## VitDetConfig
 
 [[autodoc]] VitDetConfig

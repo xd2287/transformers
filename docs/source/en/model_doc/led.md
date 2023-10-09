@@ -59,6 +59,8 @@ Tips:
 
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [led](https://huggingface.co/models?other=led)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

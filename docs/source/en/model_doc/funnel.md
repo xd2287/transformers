@@ -64,6 +64,8 @@ Tips:
 
 This model was contributed by [sgugger](https://huggingface.co/sgugger). The original code can be found [here](https://github.com/laiguokun/Funnel-Transformer).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [funnel](https://huggingface.co/models?other=funnel)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

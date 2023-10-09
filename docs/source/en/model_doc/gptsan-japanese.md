@@ -24,6 +24,8 @@ GPTSAN is a Japanese language model using Switch Transformer. It has the same st
 in the T5 paper, and support both Text Generation and Masked Language Modeling tasks. These basic tasks similarly can
 fine-tune for translation or summarization.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [gptsan-japanese](https://huggingface.co/models?other=gptsan-japanese)
+
 ### Generation
 
 The `generate()` method can be used to generate text using GPTSAN-Japanese model.

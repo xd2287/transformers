@@ -40,6 +40,8 @@ even with limited annotations.*
 
 This model was contributed by [gchhablani](https://huggingface.co/gchhablani). The Authors' code can be found [here](https://github.com/wasiahmad/PLBART).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [plbart](https://huggingface.co/models?other=plbart)
+
 ### Training of PLBart
 
 PLBart is a multilingual encoder-decoder (sequence-to-sequence) model primarily intended for code-to-text, text-to-code, code-to-code tasks. As the

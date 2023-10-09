@@ -31,6 +31,8 @@ This model was contributed by [Younes Belkada](https://huggingface.co/ybelkada) 
 The original code can be found [here](https://github.com/LAION-AI/Clap).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [clap](https://huggingface.co/models?other=clap)
+
 ## ClapConfig
 
 [[autodoc]] ClapConfig

@@ -55,6 +55,8 @@ Tips:
 
 This model was contributed by [eltoto1219](https://huggingface.co/eltoto1219). The original code can be found [here](https://github.com/airsplay/lxmert).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [lxmert](https://huggingface.co/models?other=lxmert)
+
 ## Documentation resources
 
 - [Question answering task guide](../tasks/question_answering)

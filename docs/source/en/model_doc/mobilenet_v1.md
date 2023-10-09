@@ -48,6 +48,8 @@ Unsupported features:
 
 This model was contributed by [matthijs](https://huggingface.co/Matthijs). The original code and weights can be found [here](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mobilenet_v1](https://huggingface.co/models?other=mobilenet_v1)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with MobileNetV1.

@@ -37,6 +37,8 @@ alt="drawing" width="600"/>
 
 <small> BridgeTower architecture. Taken from the <a href="https://arxiv.org/abs/2206.08657">original paper.</a> </small>
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [bridgetower](https://huggingface.co/models?other=bridgetower)
+
 ## Usage
 
 BridgeTower consists of a visual encoder, a textual encoder and cross-modal encoder with multiple lightweight bridge layers.

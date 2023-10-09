@@ -90,6 +90,8 @@ found [here](https://github.com/google-research/vision_transformer).
 Note that we converted the weights from Ross Wightman's [timm library](https://github.com/rwightman/pytorch-image-models), who already converted the weights from JAX to PyTorch. Credits
 go to him!
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vit](https://huggingface.co/models?other=vit)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with ViT.

@@ -50,6 +50,8 @@ labels when fine-tuned.
 
 This model was contributed by [sayakpaul](https://huggingface.co/sayakpaul). The original code can be found [here](https://github.com/facebookresearch/msn). 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [vit_msn](https://huggingface.co/models?other=vit_msn)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with ViT MSN.

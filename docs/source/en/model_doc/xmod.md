@@ -32,6 +32,8 @@ Tips:
 This model was contributed by [jvamvas](https://huggingface.co/jvamvas).
 The original code can be found [here](https://github.com/facebookresearch/fairseq/tree/58cc6cca18f15e6d56e3f60c959fe4f878960a60/fairseq/models/xmod) and the original documentation is found [here](https://github.com/facebookresearch/fairseq/tree/58cc6cca18f15e6d56e3f60c959fe4f878960a60/examples/xmod).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [xmod](https://huggingface.co/models?other=xmod)
+
 ## Adapter Usage
 
 ### Input language

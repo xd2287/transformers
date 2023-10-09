@@ -56,6 +56,8 @@ Tips:
 
 - XLM-ProphetNet's model architecture and pretraining objective is same as ProphetNet, but XLM-ProphetNet was pre-trained on the cross-lingual dataset XGLUE.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [xlm-prophetnet](https://huggingface.co/models?other=xlm-prophetnet)
+
 ## Documentation resources
 
 - [Causal language modeling task guide](../tasks/language_modeling)

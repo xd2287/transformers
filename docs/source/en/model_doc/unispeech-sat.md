@@ -48,6 +48,8 @@ Tips:
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten). The Authors' code can be
 found [here](https://github.com/microsoft/UniSpeech/tree/main/UniSpeech-SAT).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [unispeech-sat](https://huggingface.co/models?other=unispeech-sat)
+
 ## Documentation resources
 
 - [Audio classification task guide](../tasks/audio_classification)

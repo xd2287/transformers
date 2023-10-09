@@ -40,6 +40,8 @@ interpretability and modularity.*
 This model was contributed by [qqaatw](https://huggingface.co/qqaatw). The original code can be found
 [here](https://github.com/google-research/language/tree/master/language/realm).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [realm](https://huggingface.co/models?other=realm)
+
 ## RealmConfig
 
 [[autodoc]] RealmConfig

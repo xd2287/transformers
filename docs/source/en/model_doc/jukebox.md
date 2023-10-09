@@ -41,6 +41,8 @@ Tips:
 This model was contributed by [Arthur Zucker](https://huggingface.co/ArthurZ).
 The original code can be found [here](https://github.com/openai/jukebox).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [jukebox](https://huggingface.co/models?other=jukebox)
+
 ## JukeboxConfig
 
 [[autodoc]] JukeboxConfig

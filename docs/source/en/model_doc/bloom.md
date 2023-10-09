@@ -29,6 +29,8 @@ Several smaller versions of the models have been trained on the same dataset. BL
 - [bloom-7b1](https://huggingface.co/bigscience/bloom-7b1)
 - [bloom](https://huggingface.co/bigscience/bloom) (176B parameters)
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [bloom](https://huggingface.co/models?other=bloom)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with BLOOM. If you're interested in submitting a resource to be included here, please feel free to open a Pull Request and we'll review it! The resource should ideally demonstrate something new instead of duplicating an existing resource.

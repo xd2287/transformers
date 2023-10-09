@@ -36,6 +36,8 @@ Tips:
 
 This model was contributed by [Susnato Dhar](https://huggingface.co/susnato). The original code can be found [here](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/paddlenlp/transformers/ernie_m).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [ernie_m](https://huggingface.co/models?other=ernie_m)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

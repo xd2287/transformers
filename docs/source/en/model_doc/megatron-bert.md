@@ -82,6 +82,8 @@ This model was contributed by [jdemouth](https://huggingface.co/jdemouth). The o
 Megatron Language models. In particular, it contains a hybrid model parallel approach using "tensor parallel" and
 "pipeline parallel" techniques.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [megatron-bert](https://huggingface.co/models?other=megatron-bert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

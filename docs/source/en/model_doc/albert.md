@@ -60,6 +60,8 @@ Next sentence prediction is replaced by a sentence ordering prediction: in the i
 This model was contributed by [lysandre](https://huggingface.co/lysandre). This model jax version was contributed by
 [kamalkraj](https://huggingface.co/kamalkraj). The original code can be found [here](https://github.com/google-research/ALBERT).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [albert](https://huggingface.co/models?other=albert)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

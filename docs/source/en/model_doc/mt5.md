@@ -60,6 +60,8 @@ Google has released the following variants:
 This model was contributed by [patrickvonplaten](https://huggingface.co/patrickvonplaten). The original code can be
 found [here](https://github.com/google-research/multilingual-t5).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mt5](https://huggingface.co/models?other=mt5)
+
 ## Documentation resources
 
 - [Translation task guide](../tasks/translation)

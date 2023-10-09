@@ -68,6 +68,8 @@ Tips:
 
 This model was contributed by [lysandre](https://huggingface.co/lysandre). The original code can be found [here](https://github.com/google-research/electra).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [electra](https://huggingface.co/models?other=electra)
+
 ## Documentation resources
 
 - [Text classification task guide](../tasks/sequence_classification)

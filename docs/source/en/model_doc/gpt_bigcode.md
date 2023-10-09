@@ -26,6 +26,8 @@ The abstract from the paper is the following:uery
 
 The model is a an optimized [GPT2 model](https://huggingface.co/docs/transformers/model_doc/gpt2) with support for Multi-Query Attention.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [gpt_bigcode](https://huggingface.co/models?other=gpt_bigcode)
+
 ## Technical details
 
 The main differences compared to GPT2.

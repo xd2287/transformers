@@ -72,6 +72,8 @@ Resources:
 - [Demo notebook](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/SAM/Run_inference_with_MedSAM_using_HuggingFace_Transformers.ipynb) for inference with MedSAM, a fine-tuned version of SAM on the medical domain.
 - [Demo notebook](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/SAM/Fine_tune_SAM_(segment_anything)_on_a_custom_dataset.ipynb) for fine-tuning the model on custom data.
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [sam](https://huggingface.co/models?other=sam)
+
 ## SamConfig
 
 [[autodoc]] SamConfig

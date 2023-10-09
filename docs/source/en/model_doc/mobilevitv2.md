@@ -37,6 +37,8 @@ This model was contributed by [shehan97](https://huggingface.co/shehan97).
 The original code can be found [here](https://github.com/apple/ml-cvnets).
 
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mobilevitv2](https://huggingface.co/models?other=mobilevitv2)
+
 ## MobileViTV2Config
 
 [[autodoc]] MobileViTV2Config

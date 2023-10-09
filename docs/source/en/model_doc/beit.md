@@ -71,6 +71,8 @@ alt="drawing" width="600"/>
 This model was contributed by [nielsr](https://huggingface.co/nielsr). The JAX/FLAX version of this model was
 contributed by [kamalkraj](https://huggingface.co/kamalkraj). The original code can be found [here](https://github.com/microsoft/unilm/tree/master/beit).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [beit](https://huggingface.co/models?other=beit)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with BEiT.

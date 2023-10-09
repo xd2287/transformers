@@ -52,6 +52,8 @@ Unsupported features:
 
 This model was contributed by [matthijs](https://huggingface.co/Matthijs). The original code and weights can be found [here for the main model](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet) and [here for DeepLabV3+](https://github.com/tensorflow/models/tree/master/research/deeplab).
 
+Checkpoints that can be loaded in this architecture are hosted on the Hub here: [mobilenet_v2](https://huggingface.co/models?other=mobilenet_v2)
+
 ## Resources
 
 A list of official Hugging Face and community (indicated by 🌎) resources to help you get started with MobileNetV2.
