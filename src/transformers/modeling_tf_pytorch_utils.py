@@ -182,7 +182,7 @@ def load_pytorch_checkpoint_in_tf2_model(
     for path in pytorch_checkpoint_path:
         pt_path = os.path.abspath(path)
         logger.info(f"Loading PyTorch weights from {pt_path}")
-        pt_state_dict.update(torch.load(pt_path, map_location="cpu"))
+        pt_state_dict.update(torch.load(pt_path, map_location="cpu", weights_only=True))
 
     logger.info(f"PyTorch checkpoint contains {sum(t.numel() for t in pt_state_dict.values()):,} parameters")
 
