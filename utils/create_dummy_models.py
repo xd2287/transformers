@@ -1021,7 +1021,7 @@ def get_config_overrides(config_class, processors):
         "FlavaConfig",
         "BlipConfig",
         "Blip2Config",
-        "Kosmos2Config"
+        "Kosmos2Config",
     ]:
         del model_tester_kwargs["vocab_size"]
         model_tester_kwargs["text_kwargs"] = {"vocab_size": vocab_size}
