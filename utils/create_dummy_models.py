@@ -420,6 +420,14 @@ def get_tiny_config(config_class, model_class=None, **model_tester_kwargs):
         error = f"Tiny config not created for {model_type} - no model tester is found in the testing module."
         raise ValueError(error)
 
+    # CLIP-like models have `text_model_tester` and `vision_model_tester`, and we need to pass `vocab_size` to
+    # `text_model_tester` via `text_kwargs`. The same trick is also necessary for `Flava`.
+
+    if "vocab_size" in model_tester_kwargs:
+        if "text_kwargs" in inspect.signature(model_tester_class.__iniit__).parameters.keys():
+            vocab_size = model_tester_kwargs.pop("vocab_size")
+            model_tester_kwargs["text_kwargs"] = {"vocab_size": vocab_size}
+
     # `parent` is an instance of `unittest.TestCase`, but we don't need it here.
     model_tester = model_tester_class(parent=None, **model_tester_kwargs)
 
@@ -1006,27 +1014,8 @@ def get_config_overrides(config_class, processors):
 
     # Used to create a new model tester with `tokenizer.vocab_size` in order to get the (updated) special token ids.
     model_tester_kwargs = {"vocab_size": vocab_size}
-    # CLIP-like models have `text_model_tester` and `vision_model_tester`, and we need to pass `vocab_size` to
-    # `text_model_tester` via `text_kwargs`. The same trick is also necessary for `Flava`.
-    if config_class.__name__ in [
-        "AlignConfig",
-        "AltCLIPConfig",
-        "ChineseCLIPConfig",
-        "CLIPSegConfig",
-        "ClapConfig",
-        "CLIPConfig",
-        "GroupViTConfig",
-        "OwlViTConfig",
-        "XCLIPConfig",
-        "FlavaConfig",
-        "BlipConfig",
-        "Blip2Config",
-        "Kosmos2Config",
-    ]:
-        del model_tester_kwargs["vocab_size"]
-        model_tester_kwargs["text_kwargs"] = {"vocab_size": vocab_size}
     # `FSMTModelTester` accepts `src_vocab_size` and `tgt_vocab_size` but not `vocab_size`.
-    elif config_class.__name__ == "FSMTConfig":
+    if config_class.__name__ == "FSMTConfig":
         del model_tester_kwargs["vocab_size"]
         model_tester_kwargs["src_vocab_size"] = tokenizer.src_vocab_size
         model_tester_kwargs["tgt_vocab_size"] = tokenizer.tgt_vocab_size
