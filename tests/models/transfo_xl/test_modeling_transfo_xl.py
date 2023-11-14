@@ -490,10 +490,6 @@ class TransfoXLModelTest(ModelTesterMixin, GenerationTesterMixin, PipelineTester
     def test_left_padding_compatibility(self):
         pass
 
-    @unittest.skip("This test is currently broken because of safetensors.")
-    def test_tf_from_pt_safetensors(self):
-        pass
-
 
 @require_torch
 class TransfoXLModelLanguageGenerationTest(unittest.TestCase):
