@@ -74,6 +74,7 @@ _import_structure = {
         "glue_processors",
         "glue_tasks_num_labels",
         "squad_convert_examples_to_features",
+        "squad_convert_examples_to_features_with_segmentation",
         "xnli_compute_metrics",
         "xnli_output_modes",
         "xnli_processors",
