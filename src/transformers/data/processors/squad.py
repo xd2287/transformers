@@ -102,9 +102,11 @@ def _is_whitespace(c):
 
 
 def squad_convert_example_to_features_with_segmentation(
-    example, max_seq_length, doc_stride, max_query_length, padding_strategy, is_training, 
-    segment_start_index, stride_cannot_exceed_doc_stride
+    example_and_index_pairs,
+    max_seq_length, doc_stride, max_query_length, padding_strategy, is_training, 
+    stride_cannot_exceed_doc_stride
 ):
+    example, segment_start_index = example_and_index_pairs
     features = []
     if is_training and not example.is_impossible:
         # Get start and end position
@@ -187,11 +189,11 @@ def squad_convert_example_to_features_with_segmentation(
             max_seq_length - len(truncated_query) - sequence_pair_added_tokens,
         )
 
-        # If the stride cannot exceed doc stride, only check whether the part of doc_stride covers new section 
+        # If the stride_cannot_exceed_doc_stride is True, only check whether the part of doc_stride covers new section 
         # (start of next sliding window can only jump to the index within current doc stride)
         if stride_cannot_exceed_doc_stride:
           maximum_len_to_check_new_section = doc_stride
-        # If the stride can exceed doc stride, check whether the current paragraph covers new section 
+        # Otherwise, check whether the current paragraph covers new section 
         # (start of next sliding window can jump to anywhere within current sliding window)
         else:
           maximum_len_to_check_new_section = paragraph_len
@@ -210,8 +212,8 @@ def squad_convert_example_to_features_with_segmentation(
         if not flag:
           curr_doc_stride = doc_stride
         # If you don't want to have the sliding windows across two different sections, remove annotations of the following two lines 
-        #else:
-        #   paragraph_len = curr_doc_stride
+        else:
+          paragraph_len = curr_doc_stride
 
 
         encoded_dict = tokenizer.encode_plus(  # TODO(thom) update this logic
@@ -358,7 +360,7 @@ def squad_convert_examples_to_features_with_segmentation(
     doc_stride,
     max_query_length,
     is_training,
-    segment_start_index,
+    segment_start_indexes,
     stride_cannot_exceed_doc_stride,
     padding_strategy="max_length",
     return_dataset=False,
@@ -412,12 +414,12 @@ def squad_convert_examples_to_features_with_segmentation(
             max_query_length=max_query_length,
             padding_strategy=padding_strategy,
             is_training=is_training,
-            segment_start_index=segment_start_index,
             stride_cannot_exceed_doc_stride=stride_cannot_exceed_doc_stride,
         )
+        example_and_index_pairs = list(zip(examples, segment_start_indexes))
         features = list(
             tqdm(
-                p.imap(annotate_, examples, chunksize=32),
+                p.imap(annotate_, example_and_index_pairs, chunksize=32),
                 total=len(examples),
                 desc="convert squad examples to features",
                 disable=not tqdm_enabled,
