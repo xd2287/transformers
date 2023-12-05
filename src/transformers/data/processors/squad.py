@@ -191,22 +191,23 @@ def squad_convert_example_to_features_with_segmentation(
 
         # If the stride_cannot_exceed_doc_stride is True, only check whether the part of doc_stride covers new section 
         # (start of next sliding window can only jump to the index within current doc stride)
-        if stride_cannot_exceed_doc_stride:
-          maximum_len_to_check_new_section = doc_stride
+        # if stride_cannot_exceed_doc_stride:
+        #   maximum_len_to_check_new_section = doc_stride
         # Otherwise, check whether the current paragraph covers new section 
         # (start of next sliding window can jump to anywhere within current sliding window)
-        else:
-          maximum_len_to_check_new_section = paragraph_len
+        # else:
+        #   maximum_len_to_check_new_section = paragraph_len
+
+        maximum_len_to_check_new_section = paragraph_len
 
         # flag tracks whether the stride need to adjust because of the section segmentation
         flag = False
 
         # Use curr_doc_stride to track the stride for current sliding windows
-        while seg_index+1 < len(segment_start_index) and tok_to_orig_index[tok_start_index + maximum_len_to_check_new_section] >= segment_start_index[seg_index+1]:
+        while seg_index+1 < len(segment_start_index) and tok_to_orig_index[tok_start_index + maximum_len_to_check_new_section-1] >= segment_start_index[seg_index+1]:
           flag = True
           seg_index += 1
           curr_doc_stride = orig_to_tok_index[segment_start_index[seg_index]] - tok_start_index
-          # print(" ".join(full_context[tok_to_orig_index[tok_start_index+curr_doc_stride]:tok_to_orig_index[tok_start_index+curr_doc_stride+100]]))
         
         # If the stride is not adjusted because of the section segmentation, use original doc_stride as curr_doc_stride
         if not flag:
@@ -214,6 +215,10 @@ def squad_convert_example_to_features_with_segmentation(
         # If you don't want to have the sliding windows across two different sections, remove annotations of the following two lines 
         else:
           paragraph_len = curr_doc_stride
+          # print()
+          # print(" ".join(full_context[tok_to_orig_index[tok_start_index+paragraph_len-50]:tok_to_orig_index[tok_start_index+paragraph_len]]))
+          # print(" ".join(full_context[tok_to_orig_index[tok_start_index+curr_doc_stride]:tok_to_orig_index[tok_start_index+curr_doc_stride+50]]))
+
 
 
         encoded_dict = tokenizer.encode_plus(  # TODO(thom) update this logic
